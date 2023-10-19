@@ -16,7 +16,8 @@
     <a href="https://velog.io/@dpwns108">
         <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
     </a>
-  https://velog-readme-stats.vercel.app/api/redirect?name=dpwns108&tag=github
+
+ [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dpwns108)](https://github.com/eungyeole/velog-readme-stats)
 </div><br>
 
 ## 📞 Contact 📞
