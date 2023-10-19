@@ -5,7 +5,7 @@
 
 -------
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2CHOIYEJUN&count_bg=%23FFB6F3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCHOIYEJUN&count_bg=%23FFB6F3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)  
 
 [![bi-sz's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHOIYEJUN&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/bi-sz/github-readme-stats)
  
@@ -17,8 +17,8 @@
         <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
     </a>
   
- [![Velog's GitHub stats](https://velog.io/@dpwns108/%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4-%EC%84%9C%EB%B2%84%EA%B0%80-%ED%95%84%EC%9A%94-%EC%97%86%EB%8B%A4%EA%B3%A0)](https://github.com/bi-sz/velog-readme-stats)
- [![Velog's GitHub stats](https://velog.io/@https://velog.io/@dpwns108/JavaScript-%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C-%EC%A7%80%ED%82%A4%EA%B8%B0)](https://github.com/bi-sz/velog-readme-stats)
+ [![Velog's GitHub stats](https://velog.io/@dpwns108/%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4-%EC%84%9C%EB%B2%84%EA%B0%80-%ED%95%84%EC%9A%94-%EC%97%86%EB%8B%A4%EA%B3%A0)](https://velog.io/@dpwns108/%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4-%EC%84%9C%EB%B2%84%EA%B0%80-%ED%95%84%EC%9A%94-%EC%97%86%EB%8B%A4%EA%B3%A0)
+ [![Velog's GitHub stats](https://velog.io/@https://velog.io/@dpwns108/JavaScript-%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C-%EC%A7%80%ED%82%A4%EA%B8%B0)](https://velog.io/@dpwns108/%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4-%EC%84%9C%EB%B2%84%EA%B0%80-%ED%95%84%EC%9A%94-%EC%97%86%EB%8B%A4%EA%B3%A0)
 </div><br>
 
 ## 📞 Contact 📞
