@@ -16,9 +16,7 @@
     <a href="https://velog.io/@dpwns108">
         <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
     </a>
-  
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=bi-sz)](https://velog.io/@dpwns108/%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4-%EC%84%9C%EB%B2%84%EA%B0%80-%ED%95%84%EC%9A%94-%EC%97%86%EB%8B%A4%EA%B3%A0)
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=bi-sz)](https://velog.io/@dpwns108/%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4-%EC%84%9C%EB%B2%84%EA%B0%80-%ED%95%84%EC%9A%94-%EC%97%86%EB%8B%A4%EA%B3%A0)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=CHOIYEJUN)](https://velog.io/@dpwns108) 
 </div><br>
 
 ## 📞 Contact 📞
