@@ -19,7 +19,8 @@
     </a>
 
  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dpwns108)](https://velog.io/@dpwns108/JavaScript-%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C-%EC%A7%80%ED%82%A4%EA%B8%B0)
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dpwns108)](https://velog.io/@dpwns108/%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4-%EC%84%9C%EB%B2%84%EA%B0%80-%ED%95%84%EC%9A%94-%EC%97%86%EB%8B%A4%EA%B3%A0)
+
+ <a href="https://choiyejun.github.io/Portfolio-Junny/src/">포트폴리오 구경하기 > </a>
 </div><br>
 
 ## 📞 Contact 📞
