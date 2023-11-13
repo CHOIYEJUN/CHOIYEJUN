@@ -17,12 +17,13 @@
     <a href="https://velog.io/@dpwns108">
         <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
     </a>
-
  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dpwns108)](https://velog.io/@dpwns108/JavaScript-%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C-%EC%A7%80%ED%82%A4%EA%B8%B0)
-
- <a href="https://choiyejun.github.io/Portfolio-Junny/src/">포트폴리오 구경하기 > </a>
 </div><br>
 
+<div style="display:flex; flex-direction:row;">
+ <a href="https://choiyejun.github.io/Portfolio-Junny/src/">포트폴리오 구경하기 > </a>
+</div>
+ 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:dpwns108@gmail.com">
