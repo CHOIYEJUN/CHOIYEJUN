@@ -27,7 +27,7 @@
 
 ## 💻 MY PORTFOLIO 💻
 <div style="display:flex; flex-direction:row;">
- <a href="[https://choiyejun.github.io/Portfolio-Junny/src/](https://verbena-toque-2ec.notion.site/FE-Engineer-8f20a4924d21487d937b46a50d33e251)">포트폴리오 구경하기 > </a>
+ <a href="https://verbena-toque-2ec.notion.site/FE-Engineer-8f20a4924d21487d937b46a50d33e251">포트폴리오 구경하기 > </a>
 </div>
  
 ## 📞 Contact 📞
