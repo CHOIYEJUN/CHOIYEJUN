@@ -20,8 +20,7 @@
  <a href="https://velog.io/@dpwns108/rss">
     <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white">
 </a>
-
-[![Velog's Latest Post](https://velog-readme-stats.vercel.app/api?name=dpwns108&tag=all&color=dark)](https://velog.io/@dpwns108)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dpwns108)](https://velog.io/@dpwns108)
 </div>
 
 <br>
