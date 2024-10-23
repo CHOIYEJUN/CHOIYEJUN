@@ -22,8 +22,6 @@
     </a>
  
  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dpwns108)](https://velog.io/@dpwns108/ifkakaoAI-2024-%ED%9B%84%EA%B8%B0)
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dpwns108)](https://velog.io/@dpwns108/%ED%97%98%EB%82%9C%ED%96%88%EB%8D%98-%EC%9A%B0%EB%8B%B9%ED%83%95%ED%83%95-%EC%B2%AB-%EC%9D%B4%EC%A7%81-%EC%8A%A4%ED%86%A0%EB%A6%AC)
-
 
 
 </div>
