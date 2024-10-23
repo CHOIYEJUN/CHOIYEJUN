@@ -21,21 +21,7 @@
     <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white">
 </a>
 
-<script>
-  fetch('https://velog.io/rss/@dpwns108')
-    .then(response => response.text())
-    .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
-    .then(data => {
-      const latestPost = data.querySelector("item");
-      const postTitle = latestPost.querySelector("title").textContent;
-      const postLink = latestPost.querySelector("link").textContent;
-
-      const postElement = document.createElement("a");
-      postElement.href = postLink;
-      postElement.innerText = `최신 글: ${postTitle}`;
-      document.body.appendChild(postElement);
-    });
-</script>
+[![Velog's Latest Post](https://velog-readme-stats.vercel.app/api?name=dpwns108&tag=all&color=dark)](https://velog.io/@dpwns108)
 </div>
 
 <br>
