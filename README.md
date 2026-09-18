@@ -25,7 +25,7 @@
 ---
 
 <p align="center">
-  <img src="./junny.svg" width="880" alt="src/junny.tsx" />
+  <img src="./junny.svg" width="880" alt="junny.svg" />
 </p>
 
 ---
@@ -67,7 +67,7 @@
     <td width="48%" valign="top">
       <h3>🖥️ D-Banking Admin Front</h3>
       <p>
-        해외 가상계좌·자금이체 대시보드<br/>
+        해외 가상계좌·자금이체 대시보드 Web <br/>
         React 19 / Vite / TypeScript / Tailwind 4 / TanStack Query·Table / Zustand.
       </p>
       <ul>
@@ -80,7 +80,7 @@
     <td width="48%" valign="top">
       <h3>⚙️ D-Banking Admin API</h3>
       <p>
-        대시보드 API <br/>
+        해외 가상계좌·자금이체 대시보드 API <br/>
         Spring Boot 3 / QueryDSL / PostgreSQL.
       </p>
       <ul>
