@@ -1,22 +1,12 @@
-<!-- Language Tabs -->
-<p align="center">
-  <a href="./README.md">
-    <img src="https://img.shields.io/badge/한국어-2d333b?style=for-the-badge" alt="한국어" />
-  </a>
-  <a href="./README.en.md">
-    <img src="https://img.shields.io/badge/English-20c997?style=for-the-badge" alt="English" />
-  </a>
-</p>
-
 <!-- Wavy Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=20c997&height=180&section=header&text=Junny%20the%20Web%20Engineer&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Dozn%20·%20Firm%20Banking%20·%20AI%20Research&descAlignY=58&descSize=14" width="1000" alt="Junny header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=20c997&height=180&section=header&text=Junny%20the%20Web%20Engineer&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Dozn%20·%20펌뱅킹%20중계%20·%20AI%20Research&descAlignY=58&descSize=14" width="1000" alt="Junny header" />
 </p>
 
 <!-- Typing -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=22&duration=3200&pause=900&color=20C997&center=true&vCenter=true&width=920&lines=Building+overseas+VA+firm-banking+rails.;Frontend+first.+Full-stack+when+it+matters.;Researching+valuation+models+at+KMU.;It's+been+1448+days+since+I+started+coding+for+that+dream." alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=22&duration=3200&pause=900&color=20C997&center=true&vCenter=true&width=920&lines=%ED%95%B4%EC%99%B8+%EA%B0%80%EC%83%81%EA%B3%84%EC%A2%8C+%ED%8E%8C%EB%B1%85%ED%82%B9+%EC%A4%91%EA%B3%84+%ED%94%8C%EB%9E%AB%ED%8F%BC%EC%9D%84+%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4.;Frontend+first.+Full-stack+when+it+matters.;%EA%B5%AD%EB%AF%BC%EB%8C%80%ED%95%99%EA%B5%90%EC%97%90%EC%84%9C+%EA%B0%80%EC%B9%98%ED%8F%89%EA%B0%80+%EC%98%88%EC%B8%A1%EB%AA%A8%EB%8D%B8%EC%9D%84+%EC%97%B0%EA%B5%AC%ED%95%A9%EB%8B%88%EB%8B%A4.;It's+been+1448+days+since+I+started+coding+for+that+dream." alt="typing" />
   </a>
 </p>
 
@@ -34,19 +24,9 @@
 
 ---
 
-```ts
-const junny = {
-  name: "Choi Ye-jun",
-  aka: "Junny",
-  role: "Web Engineer",
-  company: "Dozn",
-  building: "Overseas virtual-account firm-banking relay platform",
-  studying: "AI · Kookmin University Graduate School of Software Convergence",
-  now: "Valuation prediction models — currently real estate",
-  stack: ["React", "TypeScript", "Spring Boot", "PostgreSQL", "Python"],
-  dream: "Build something useful.",
-} as const;
-```
+<p align="center">
+  <img src="./junny.svg" width="880" alt="src/junny.tsx" />
+</p>
 
 ---
 
@@ -55,24 +35,24 @@ const junny = {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏢 Dozn</h3>
+      <h3>🏢 더즌</h3>
       <p>
-        I build an <b>overseas virtual-account · firm-banking relay</b> platform.<br/>
-        I design the BSS admin that operators use every day in React 19 —
-        inquiry, settlement, and excel exports that have to hold up on one screen.
+        해외 <b>가상계좌 · 펌뱅킹 중계</b> 플랫폼을 만들고 있습니다.<br/>
+        운영자가 매일 쓰는 D-Banking 대시보드를 React 19로 설계하고,
+        거래 조회·정산·엑셀·통계는 물론, 복잡한 거래 설정과 기관 온보딩까지 쉽게 사용할수 있는 UI 를 구현합니다.
       </p>
       <p>
-        <code>Funds Transfer FT</code> · <code>Virtual Account VA</code> · <code>Ledger / Settlement</code>
+        <code>자금이체 FT</code> · <code>가상계좌 VA</code> · <code>원장 / 정산</code>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎓 KMU · AI</h3>
+      <h3>🎓 국민대 · AI</h3>
       <p>
-        I study AI at Kookmin University Graduate School of Software Convergence.<br/>
-        Right now I research <b>valuation prediction models</b> — turning jeonse / sale structures into data.
+        국민대학교 소프트웨어융합대학원에서 인공지능을 공부하고 있습니다.<br/>
+        지금은 <b>가치평가 예측모델</b> 관련 연구를 하고 있습니다.
       </p>
       <p>
-        <code>XGBoost</code> · <code>Embedding MLP</code> · <code>Transaction time series</code>
+        <code>XGBoost</code> · <code>Embedding MLP</code> · <code>실거래 시계열</code>
       </p>
     </td>
   </tr>
@@ -84,42 +64,46 @@ const junny = {
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🖥️ BSS Admin Front</h3>
+    <td width="48%" valign="top">
+      <h3>🖥️ D-Banking Admin Front</h3>
       <p>
-        Admin console for overseas virtual accounts and funds transfer.<br/>
+        해외 가상계좌·자금이체 대시보드<br/>
         React 19 / Vite / TypeScript / Tailwind 4 / TanStack Query·Table / Zustand.
       </p>
       <ul>
-        <li>One admin for transactions, status, fees, ledger, and settlement</li>
-        <li>Browser-side excel for 100k rows: <b>56s → 24s</b></li>
-        <li>Dropped per-cell style cost, rewrote format hot paths, offloaded freeze to a Web Worker</li>
+        <li>거래·상태·수수료·원장·정산 화면을 하나의 어드민으로 구성</li>
+        <li>10만 행 엑셀을 브라우저에서 만들 때 <b>56초 → 11초</b> 로 개선</li>
+        <li>셀 스타일 병목 제거 + Web Worker로 UI 프리징 제거</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
-      <h3>⚙️ BSS Admin API</h3>
+    <td width="4%"></td>
+    <td width="48%" valign="top">
+      <h3>⚙️ D-Banking Admin API</h3>
       <p>
-        Admin API for the same domain.<br/>
+        대시보드 API <br/>
         Spring Boot 3 / QueryDSL / PostgreSQL.
       </p>
       <ul>
-        <li>Rebuilt master-data query patterns that collapsed on transaction history (up to ~2M rows)</li>
-        <li>Last page <b>32s → 1.6s</b>, search <b>6s → 0.8s</b></li>
-        <li>Excel 100k rows <b>11s → 3s</b> · PK-first paging / semi-join filters</li>
+        <li>거래관련 조회 API 의 공통 조회 패턴 재설계로 병목 개선</li>
+        <li>마지막 페이지 <b>32초 → 1.6초</b>, 검색 <b>6초 → 0.8초</b> 로 개선</li>
+        <li>엑셀 10만 건 <b>11초 → 3초</b> 로 개선 </li>
       </ul>
     </td>
   </tr>
+</table>
+
+<br/>
+
+<table>
   <tr>
-    <td colspan="2" valign="top">
-      <h3>🏠 Valuation Model — Jeonse Price Prediction</h3>
+    <td valign="top">
+      <h3>🏠 Valuation Model — 전세가 예측</h3>
       <p>
-        A research project that joins apartment sale and jeonse transactions to predict
-        <b>jeonse price / jeonse-to-sale ratio</b>.
-        I split the train window on the assumption that the market is non-stationary,
-        and replaced apartment-name one-hot dependence with embeddings.
+        아파트 매매·전세 실거래가를 결합해 <b>전세가 / 전세가율</b>을 예측하는 연구 프로젝트.
+        물건과 단지 특성에 따라 학습 구간을 나누고, one-hot 의존을 embedding으로 개선.
       </p>
       <p>
-        <code>Python</code> · <code>XGBoost</code> · <code>Embedding MLP</code> · <code>Time-series split</code>
+        <code>Python</code> · <code>XGBoost</code> · <code>Embedding MLP</code> · <code>시계열 분할</code>
       </p>
     </td>
   </tr>
@@ -148,32 +132,8 @@ const junny = {
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
 </p>
 
-<details>
-  <summary><b>What I actually use day to day</b></summary>
-  <br/>
-
-  | Layer | Tools |
-  | --- | --- |
-  | UI | React 19, TypeScript, Vite, Tailwind 4, Radix, Vanilla Extract |
-  | State / Data | Zustand, Recoil, TanStack Query, TanStack Table |
-  | Form | React Hook Form, Zod |
-  | Backend | Java, Spring Boot 3, QueryDSL |
-  | Data | PostgreSQL, Oracle, Firebase |
-  | Research | Python, XGBoost, Embedding MLP |
-
-</details>
-
 ---
 
-## Focus
-
-```text
-[■■■■■■■■■■■■□□]  Firm-banking admin that operators can trust
-[■■■■■■■■□□□□□□]  Valuation models that survive a real market regime
-[■■■■□□□□□□□□□□]  Something useful enough to outlive a job title
-```
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=20c997&height=120&section=footer" width="1000" alt="footer" />
