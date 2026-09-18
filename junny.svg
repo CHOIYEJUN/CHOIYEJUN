@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="620" viewBox="0 0 880 620" role="img" aria-label="src/junny.tsx">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#14161c"/>
+      <stop offset="100%" stop-color="#10141a"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1c2128"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .win { font-family: ui-monospace, SFMono-Regular, "Cascadia Code", Menlo, Consolas, "Malgun Gothic", monospace; }
+      .ln { fill: #3d4a55; font-size: 13px; }
+      .c { font-size: 14px; }
+      .kw { fill: #c4b5fd; }
+      .ty { fill: #7dd3fc; }
+      .fn { fill: #93c5fd; }
+      .pr { fill: #fbbf24; }
+      .st { fill: #6ee7b7; }
+      .nu { fill: #20c997; }
+      .op { fill: #94a3b8; }
+      .tx { fill: #e2e8f0; }
+      .tg { fill: #20c997; }
+      .line { opacity: 0; animation: reveal 0.45s ease forwards; }
+      .cursor {
+        fill: #20c997;
+        animation: blink 1s step-end infinite;
+      }
+      @keyframes reveal {
+        from { opacity: 0; transform: translateY(6px); }
+        to { opacity: 1; transform: translateY(0); }
+      }
+      @keyframes blink {
+        50% { opacity: 0; }
+      }
+    </style>
+  </defs>
+
+  <rect x="8" y="8" width="864" height="604" rx="16" fill="#20c997" opacity="0.12" filter="url(#glow)"/>
+  <rect x="12" y="12" width="856" height="596" rx="14" fill="url(#bg)" stroke="#20c997" stroke-opacity="0.35"/>
+
+  <path d="M12 12 h856 a14 14 0 0 1 14 14 v22 H12 V26 a14 14 0 0 1 14-14z" fill="url(#bar)"/>
+  <rect x="12" y="47" width="856" height="1" fill="#20c997" opacity="0.45"/>
+
+  <circle cx="36" cy="30" r="6" fill="#ff5f57"/>
+  <circle cx="56" cy="30" r="6" fill="#febc2e"/>
+  <circle cx="76" cy="30" r="6" fill="#28c840"/>
+
+  <rect x="104" y="18" width="118" height="22" rx="6" fill="#0d1117"/>
+  <text x="163" y="33" text-anchor="middle" class="win" fill="#20c997" font-size="11">junny.tsx</text>
+
+  <g class="win" transform="translate(28, 78)">
+    <g class="line" style="animation-delay:0.05s"><text class="ln" y="0"> 1</text><text class="c" x="36" y="0"><tspan class="kw">type</tspan><tspan class="ty"> Role</tspan><tspan class="op"> = </tspan><tspan class="st">"Web Engineer"</tspan><tspan class="op">;</tspan></text></g>
+    <g class="line" style="animation-delay:0.12s"><text class="ln" y="24"> 2</text><text class="c" x="36" y="24"><tspan class="kw">type</tspan><tspan class="ty"> Track</tspan><tspan class="op"> = </tspan><tspan class="st">"firm-banking"</tspan><tspan class="op"> | </tspan><tspan class="st">"valuation"</tspan><tspan class="op">;</tspan></text></g>
+    <g class="line" style="animation-delay:0.19s"><text class="ln" y="48"> 3</text></g>
+    <g class="line" style="animation-delay:0.26s"><text class="ln" y="72"> 4</text><text class="c" x="36" y="72"><tspan class="kw">export default function</tspan><tspan class="fn"> Junny</tspan><tspan class="op">() {</tspan></text></g>
+    <g class="line" style="animation-delay:0.33s"><text class="ln" y="96"> 5</text><text class="c" x="36" y="96"><tspan class="kw">  const</tspan><tspan class="tx"> me </tspan><tspan class="op">= {</tspan></text></g>
+    <g class="line" style="animation-delay:0.40s"><text class="ln" y="120"> 6</text><text class="c" x="36" y="120"><tspan class="pr">    name</tspan><tspan class="op">: </tspan><tspan class="st">"&#52572;&#50696;&#51456;"</tspan><tspan class="op">,</tspan></text></g>
+    <g class="line" style="animation-delay:0.47s"><text class="ln" y="144"> 7</text><text class="c" x="36" y="144"><tspan class="pr">    aka</tspan><tspan class="op">: </tspan><tspan class="st">"Junny"</tspan><tspan class="op">,</tspan></text></g>
+    <g class="line" style="animation-delay:0.54s"><text class="ln" y="168"> 8</text><text class="c" x="36" y="168"><tspan class="pr">    role</tspan><tspan class="op">: </tspan><tspan class="st">"Web Engineer"</tspan><tspan class="op">,</tspan></text></g>
+    <g class="line" style="animation-delay:0.61s"><text class="ln" y="192"> 9</text><text class="c" x="36" y="192"><tspan class="pr">    at</tspan><tspan class="op">: </tspan><tspan class="st">"&#45908;&#51596;"</tspan><tspan class="op">,</tspan></text></g>
+    <g class="line" style="animation-delay:0.68s"><text class="ln" y="216">10</text><text class="c" x="36" y="216"><tspan class="pr">    building</tspan><tspan class="op">: </tspan><tspan class="st">"&#54644;&#50808; &#44032;&#49345;&#44228;&#51340; &#54156;&#48197;&#53433; &#51473;&#44228; &#54540;&#47019;&#54268;"</tspan><tspan class="op">,</tspan></text></g>
+    <g class="line" style="animation-delay:0.75s"><text class="ln" y="240">11</text><text class="c" x="36" y="240"><tspan class="pr">    studying</tspan><tspan class="op">: </tspan><tspan class="st">"&#51064;&#44277;&#51648;&#45733; &#183; &#44397;&#48124;&#45824; &#49548;&#54532;&#53944;&#50920;&#50612;&#50997;&#54633;&#45824;&#54617;&#50896;"</tspan><tspan class="op">,</tspan></text></g>
+    <g class="line" style="animation-delay:0.82s"><text class="ln" y="264">12</text><text class="c" x="36" y="264"><tspan class="pr">    now</tspan><tspan class="op">: </tspan><tspan class="st">"&#44032;&#52824;&#54217;&#44032; &#50696;&#52769;&#47784;&#45944;"</tspan><tspan class="op">,</tspan></text></g>
+    <g class="line" style="animation-delay:0.89s"><text class="ln" y="288">13</text><text class="c" x="36" y="288"><tspan class="pr">    days</tspan><tspan class="op">: </tspan><tspan class="nu">1448</tspan><tspan class="op">,</tspan></text></g>
+    <g class="line" style="animation-delay:0.96s"><text class="ln" y="312">14</text><text class="c" x="36" y="312"><tspan class="op">  } as const;</tspan></text></g>
+    <g class="line" style="animation-delay:1.03s"><text class="ln" y="336">15</text></g>
+    <g class="line" style="animation-delay:1.10s"><text class="ln" y="360">16</text><text class="c" x="36" y="360"><tspan class="kw">  return</tspan><tspan class="op"> (</tspan></text></g>
+    <g class="line" style="animation-delay:1.17s"><text class="ln" y="384">17</text><text class="c" x="36" y="384"><tspan class="tg">    &lt;Engineer</tspan></text></g>
+    <g class="line" style="animation-delay:1.24s"><text class="ln" y="408">18</text><text class="c" x="36" y="408"><tspan class="op">      {</tspan><tspan class="ty">...me</tspan><tspan class="op">}</tspan></text></g>
+    <g class="line" style="animation-delay:1.31s"><text class="ln" y="432">19</text><text class="c" x="36" y="432"><tspan class="pr">      focus</tspan><tspan class="op">=</tspan><tspan class="ty">{</tspan><tspan class="st">["firm-banking", "valuation"]</tspan><tspan class="ty">}</tspan></text></g>
+    <g class="line" style="animation-delay:1.38s"><text class="ln" y="456">20</text><text class="c" x="36" y="456"><tspan class="pr">      dream</tspan><tspan class="op">=</tspan><tspan class="st">"Build something useful."</tspan></text><rect class="cursor" x="292" y="445" width="8" height="16" rx="1"/></g>
+    <g class="line" style="animation-delay:1.45s"><text class="ln" y="480">21</text><text class="c" x="36" y="480"><tspan class="tg">    /&gt;</tspan></text></g>
+    <g class="line" style="animation-delay:1.52s"><text class="ln" y="504">22</text><text class="c" x="36" y="504"><tspan class="op">  );</tspan></text></g>
+    <g class="line" style="animation-delay:1.59s"><text class="ln" y="528">23</text><text class="c" x="36" y="528"><tspan class="op">}</tspan></text></g>
+  </g>
+</svg>
