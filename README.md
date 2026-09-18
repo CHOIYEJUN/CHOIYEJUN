@@ -24,8 +24,8 @@
 
 ---
 
-<p align="center">
-  <img src="./junny.svg" width="880" alt="junny.svg" />
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/CHOIYEJUN/CHOIYEJUN/main/junny.svg" width="880" alt="src/junny" />
 </p>
 
 ---
@@ -64,7 +64,7 @@
 
 <table>
   <tr>
-    <td width="48%" valign="top">
+    <td width="50%" valign="top">
       <h3>🖥️ D-Banking Admin Front</h3>
       <p>
         해외 가상계좌·자금이체 대시보드 Web <br/>
@@ -76,8 +76,8 @@
         <li>셀 스타일 병목 제거 + Web Worker로 UI 프리징 제거</li>
       </ul>
     </td>
-    <td width="4%"></td>
-    <td width="48%" valign="top">
+    <td width="2%"></td>
+    <td width="50%" valign="top">
       <h3>⚙️ D-Banking Admin API</h3>
       <p>
         해외 가상계좌·자금이체 대시보드 API <br/>
